@@ -46,7 +46,7 @@
                     android:layout_marginLeft="16dp"
                     android:layout_marginRight="16dp"
                     android:layout_marginBottom="16dp"
-                    android:src="@drawable/profile_pic" />
+                    android:src="@drawable/profile" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -55,7 +55,7 @@
                     android:layout_marginRight="16dp"
                     android:layout_marginBottom="4dp"
                     android:fontFamily="@font/calibri"
-                    android:text="Shashank Singhal"
+                    android:text="KG Official"
                     android:textColor="#000000"
                     android:textSize="18sp" />
 
